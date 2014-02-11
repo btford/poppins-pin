@@ -1,0 +1,14 @@
+{
+  "name": "poppins-pin",
+  "version": "0.0.1",
+  "description": "pin a comment to the top of new issues",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "keywords": [
+    "mary-poppins"
+  ],
+  "author": "Brian Ford",
+  "license": "MIT"
+}
